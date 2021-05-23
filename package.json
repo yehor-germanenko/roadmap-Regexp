@@ -1,0 +1,19 @@
+{
+  "name": "regexp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "PatternsAndFlags.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yehor-germanenko/roadmap-Regexp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yehor-germanenko/roadmap-Regexp/issues"
+  },
+  "homepage": "https://github.com/yehor-germanenko/roadmap-Regexp#readme"
+}

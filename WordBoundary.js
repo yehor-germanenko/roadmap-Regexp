@@ -1,0 +1,1 @@
+console.log('Breakfast at 09:00 in room 123:456.'.match(/\b\d\d:\d\d\b/));
